@@ -10,7 +10,7 @@
 
 🏫 QIS College of Engineering and Technology
 
-🌱 Currently learning Machine Learning, Deep Learning, Data Science, and Flutter
+🌱 Currently learning Machine Learning, Deep Learning, Data Science, Flutter, and Android Development
 
 🔭 Working on AI-based projects and improving problem-solving skills
 
@@ -38,9 +38,10 @@
 
 #### Mobile Development
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
----
 
 ### 📂 Featured Project
 
