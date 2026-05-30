@@ -18,7 +18,7 @@
 
 📍 Ongole, Andhra Pradesh, India
 
-📧 Email: [sriramaanusha01@gmail.com](mailto:sriramaanusha01@gmail.com)
+📧 Email: [sriramaanusha3@gmail.com](mailto:sriramaanusha3@gmail.com)
 
 ---
 
