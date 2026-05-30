@@ -1,62 +1,101 @@
-# Hi 👋, I'm Anusha S
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Anusha S
 
-🎓 B.Tech Student in Artificial Intelligence and Data Science
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Flutter+Learner;Open+to+Internship+Opportunities" alt="Typing SVG" />
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Mobile App Development.
+---
 
-🌱 Currently Learning
+### 👩‍💻 About Me
 
-* Python Programming
-* Machine Learning
-* Deep Learning
-* Flutter Development
-* Data Science
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-## 🚀 About Me
+🏫 QIS College of Engineering and Technology
 
-* 🎓 Studying AI & Data Science at QIS College of Engineering and Technology
-* 💻 Interested in AI, ML, Deep Learning and App Development
-* 📚 Continuously learning new technologies through projects and certifications
-* 🎯 Looking for Internship Opportunities
+🌱 Currently learning Machine Learning, Deep Learning, Data Science, and Flutter
 
-## 🛠️ Skills
+🔭 Working on AI-based projects and improving problem-solving skills
 
-* Python
-* Java
-* Flutter
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-
-## 📂 Projects
-
-### 🛰️ Satellite Image Classification using Deep Learning
-
-* Developed a deep learning model using Python to classify satellite images.
-* Applied image preprocessing and model training techniques.
-* Improved image classification accuracy using deep learning methods.
-
-**Technologies Used:** Python, Deep Learning
-
-## 🏆 Certifications
-
-* Python Programming Certification (Udemy)
-* Master Java, Python, C & C++: All-in-One Programming Course (Udemy)
-
-## 📫 Contact Me
-
-📧 Email: [sriramaanusha01@gmail.com](mailto:sriramaanusha01@gmail.com)
+💼 Looking for Internship Opportunities in AI, ML, Data Science, and Software Development
 
 📍 Ongole, Andhra Pradesh, India
 
-## 📊 GitHub Stats
+📧 Email: [sriramaanusha01@gmail.com](mailto:sriramaanusha01@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramaanusha3-ops\&show_icons=true)
+---
 
-## 🔥 GitHub Streak
+### 🚀 Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sriramaanusha3-ops)
+#### Programming Languages
 
-## 🌟 Top Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramaanusha3-ops\&layout=compact)
+#### AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-green?style=for-the-badge)
+
+#### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+
+---
+
+### 📂 Featured Project
+
+#### 🛰️ Satellite Image Classification Using Deep Learning
+
+✔ Developed a deep learning model to classify satellite images
+
+✔ Performed image preprocessing and model training
+
+✔ Improved classification performance using deep learning techniques
+
+**Tech Used:** Python, Deep Learning
+
+---
+
+### 🏆 Certifications
+
+🥇 Python Programming Certification (Udemy)
+
+🥇 Master Java, Python, C & C++: All-in-One Programming Course (Udemy)
+
+---
+
+### 📈 GitHub Statistics
+
+![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramaanusha3-ops\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sriramaanusha3-ops\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramaanusha3-ops\&layout=compact\&theme=tokyonight)
+
+---
+
+### 🏅 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sriramaanusha3-ops\&theme=tokyonight\&margin-w=10)
+
+---
+
+### 📚 Current Learning Goals
+
+* Machine Learning Algorithms
+* Deep Learning with Python
+* Data Analytics
+* Flutter Development
+* Git & GitHub Best Practices
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sriramaanusha01@gmail.com)
+
+---
+
+⭐ “Learning, Building, and Growing Every Day.”
